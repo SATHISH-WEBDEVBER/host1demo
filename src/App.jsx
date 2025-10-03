@@ -15,6 +15,12 @@ function App() {
       <p>
         Click on the Vite and React logos to learn more.
       </p>
+
+      <p>
+        This is a simple React application set up with Vite as the build tool. You can start editing the code in <code>src/App.jsx</code> to see live updates in your browser.    
+      </p>
+
+      
     </div>
   )
 }
